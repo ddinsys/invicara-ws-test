@@ -5,6 +5,8 @@ import { STATUS_LBL, STATUS_CLR, WS_SLOTS } from "../../utils/constants"; // STA
 import { Container, Table, Button, Row, Col, Tooltip, OverlayTrigger } from 'react-bootstrap';
 import { MdOutlineDesktopMac } from 'react-icons/md';
 
+// MAVF
+
 import Wsi from '../../assets/i/favicon.png';
 import './Workstation.scss';
 
